@@ -1,0 +1,123 @@
+.Menue {
+    text-align: center;
+    background-color: #8e9d8f;
+    }
+
+.Menueitem {
+    text-align: center;
+    background-color: #8e9d8f;
+    color: white;
+    width: auto;
+    margin: 20px auto;
+    font-family: Josefine;
+    font-size: 25px;
+    display: inline;
+    }
+
+.Menueitem:hover {
+    background-color: #75888e;
+    }
+
+.Header {
+    font-family: Josefin Sans;
+    font-size: 80px;
+    color: white;
+    padding-top: 60px;
+    width: auto;
+    margin: auto;
+    background: url("unsplash.JPG");
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+
+body {
+    background-color: #b6c0b7;
+    }
+.Boxlinks {
+    font-family: Josefine Sans;
+    background-color: #8e9d8f;
+    color: white;
+    font-size: 20px;
+    text-align: left;
+    width: 500px;
+    margin-left: 100px;
+    padding: 50px;
+    height: 400px;
+    margin-top: 20px;
+    }
+
+.Boxrechts {
+    font-family: Josefine Sans;
+    background-color: #8e9d8f;
+    color: white;
+    font-size: 20px;
+    text-align: left;
+    width: 500px;
+    margin-left: 750px;
+    margin-top: -500px;
+    padding: 50px;
+    height: 400px;
+    }
+
+a {
+    font-family: Josefine Sans;
+    color: white;
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+    padding-top: 5px;
+    padding-down: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: #b6c0b7;
+    }
+
+a:hover{
+    background-color: #708090;
+    }
+
+.image {
+	width: 760px;
+	height: 360px;
+	background: url(Janina.JPG) no-repeat;
+	display: inline-block;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+.image:hover {
+	background: url("Janina Hover.JPG") no-repeat;
+	transition: 2s ease;
+    }
+
+.center {
+    margin: 0 auto;
+    }
+
+.Footer {
+    text-align: center;
+    background-color: #8e9d8f;
+    color: white;
+    width: auto;
+    margin: 20px auto
+    font-family: Josefine Sans;
+    font-size: 20px;
+    }
+
+.Footeritem {
+    text-align: center;
+    background-color: #8e9d8f;
+    color: white;
+    width: auto;
+    margin: 20px auto;
+    font-family: Josefine Sans;
+    font-size: 20px;
+    display: inline;
+    }
+
+.Footeritem:hover {
+    background-color: #75888e;
+    }
+
